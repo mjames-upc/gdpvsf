@@ -3,6 +3,7 @@ gdpvsf
 
 GDPVSF vertically interpolates grid data to an arbitrary surface.
 
+<pre>
 INPUT PARAMETERS 
 GDFILE	 Grid file
 GDOUTF	 Output grid file
@@ -109,7 +110,5 @@ EXAMPLES
         GLIST    =  thta;uwnd;vwnd;pres    
         PMAX     =  700
 
-ERROR MESSAGES 
-GEMPAK Program Index
 
-User Guide Table of Contents
+</pre>
